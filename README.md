@@ -1,7 +1,7 @@
-# Weather-App
+# Cloudcast-App
  
 Description:
-The Weather App is a user-friendly application that provides real-time weather information for various locations. Users can search for a city, view the current weather conditions.
+The Cloudcast App is a user-friendly application that provides real-time weather information for various locations. Users can search for a city, view the current weather conditions.
 
 Features:
 Search for a city and view the current weather conditions.
@@ -15,7 +15,7 @@ Click the "Search" button or press Enter.
 The app will display the current weather conditions, including the temperature, humidity and wind speed.
 
 Contributing:
-If you would like to contribute to the development of the Weather App, please follow these steps:
+If you would like to contribute to the development of the Cloudcast App, please follow these steps:
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and commit them.
